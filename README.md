@@ -1,5 +1,7 @@
 ## Predicting Visual Importance Across Graphic Design Types
 
+Forked for the **TransCarto** thematical school, CNRS, october 2021, to use on special map images.
+
 This repository contains code associated with the project at: http://predimportance.mit.edu/
 
 The model file, in [Keras H5 format](https://www.tensorflow.org/guide/keras/save_and_serialize), can be downloaded [here](http://predimportance.mit.edu/data/xception_cl_fus_aspp_imp1k_10kl-3cc0.1mse-5nss5bc_bs4_ep30_valloss-2.5774_full.h5).
