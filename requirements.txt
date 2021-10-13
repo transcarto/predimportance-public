@@ -1,0 +1,4 @@
+# Modules requirements
+keras==2.3.1
+numpy==1.20.3
+scipy==1.7.1
