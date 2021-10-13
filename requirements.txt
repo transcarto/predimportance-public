@@ -1,4 +1,8 @@
 # Modules requirements
-keras==2.3.1
+keras==2.6.0
+tensorflow-gpu==1.14.0
 numpy==1.20.3
+scikit-image==0.18.1
+pillow==8.3.1
+matplotlib==3.4.2
 scipy==1.7.1
