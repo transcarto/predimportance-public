@@ -2,7 +2,7 @@
 
 Forked for the **TransCarto** thematical school, CNRS, october 2021, to use on special map images.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/transcarto/predimportance-public/HEAD), [Binder image](https://hub.gke2.mybinder.org/user/transcarto-predimportance-public-ni40crrr/lab)
+To execute the iPython Notebook in a Binder Jupyter : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/transcarto/predimportance-public/HEAD)
 
 This repository contains code associated with the project at: http://predimportance.mit.edu/
 
